@@ -1,9 +1,11 @@
-# React Formulary
+# [React Formulary](https://Kochiyama.github.io/react-formulary)
 
 This project was started while on 'React function components' course at Alura.
 Then I've rebuilt it with formik form handling and Yup data validation.
 
 It is a beautiful, modern and fast approach for formulary creation on React.
+
+## [See the result](https://Kochiyama.github.io/react-formulary)
 
 This project was bootstrapped with
 [Create React App](https://github.com/facebook/create-react-app).
